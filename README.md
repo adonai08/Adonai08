@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Adonai Narciso
 
-<!--
-**adonai08/Adonai08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Sistemas de Informação no IFAL e desenvolvedor em formação.
 
-Here are some ideas to get you started:
+🚀 Atualmente estudando programação e desenvolvendo projetos para colocar meus conhecimentos em prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+🐍 Python  
+💻 C  
+🌐 HTML  
+🎨 CSS  
+⚡ JavaScript  
+🔧 Git e GitHub
+
+## 🚀 Projetos
+
+### 💰 Controle Financeiro
+Sistema desenvolvido em Python para controle de receitas, despesas e saldo.
+
+### 📦 Controle de Estoque
+Sistema para gerenciamento de produtos e estoque.
+
+### 📅 Sistema de Agendamento
+Sistema web para gerenciamento de agendamentos.
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor através de projetos práticos e buscar minha primeira oportunidade profissional na área de tecnologia.
+
+## 📫 Contato
+
+📧 Seu e-mail  
+💼 LinkedIn
