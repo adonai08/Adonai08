@@ -56,18 +56,6 @@ Tenho interesse em desenvolvimento de sistemas e estou sempre buscando aprender 
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Entre em contato
 
 <div align="center">
@@ -83,13 +71,5 @@ Tenho interesse em desenvolvimento de sistemas e estou sempre buscando aprender 
 <a href="https://github.com/adonai08" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Sempre aprendendo. Sempre evoluindo.
 
 </div>
