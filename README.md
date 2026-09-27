@@ -13,16 +13,6 @@
 ⚡ JavaScript  
 🔧 Git e GitHub
 
-## 🚀 Projetos
-
-### 💰 Controle Financeiro
-Sistema desenvolvido em Python para controle de receitas, despesas e saldo.
-
-### 📦 Controle de Estoque
-Sistema para gerenciamento de produtos e estoque.
-
-### 📅 Sistema de Agendamento
-Sistema web para gerenciamento de agendamentos.
 
 ## 🎯 Objetivo
 
